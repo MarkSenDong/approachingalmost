@@ -140,3 +140,4 @@ models/
 *.pkl
 *.pth
 *.bin
+.DS_Store
